@@ -1,0 +1,77 @@
+body {
+    background-image: url(img/fondo.jpg);
+     background-size: cover;
+     background-repeat: no-repeat; 
+     background-position: center; 
+     align-items: center;
+     height: 100vh;
+     margin: 0;
+     
+ }
+ .boton1{
+     background-color: #424242;
+     border: none;
+     color: white;
+     padding: 200px 200px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin-left: 400px;
+     margin-top: 180px;
+     cursor: pointer;
+     border-radius: 6%;
+ }
+ 
+ .boton2{
+     background-color: #424242;
+     border: 200px;
+     border-color: antiquewhite;
+     border-width: 50px;
+     padding: 200px 200px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin-left: 160px;
+     margin-top: 180px;
+     cursor: pointer;
+     border-radius: 6%;
+ }
+ .mat{
+     position: absolute;
+     margin-top: 335px;
+     margin-left: 500px;
+   color: aliceblue;
+ }
+ .ves{
+     position: absolute;
+     margin-left: 1040px;
+        margin-top: 335px;
+   color: aliceblue;
+ }
+ 
+ img {
+   height: 60px;
+   width: 60px;
+ }
+ .nav-link1{
+   color: azure;
+   margin-right: 20px;
+   margin-top: 20px;
+ }
+ .nav-link2{
+   color: #a0a0a0;
+   margin-right: 20px;
+   margin-top: 20px;
+ }
+ .nav-link3{
+   color: #a0a0a0;
+   margin-right: 20px;
+   margin-top: 20px;
+ }
+ .nav-link4{
+   color: #a0a0a0;
+   margin-right: 20px;
+   margin-top: 20px;
+ }
