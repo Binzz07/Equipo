@@ -1,0 +1,104 @@
+body {
+    background-image: url(img/fondo.jpg);
+     background-size: cover;
+     background-repeat: no-repeat; 
+     background-position: center; 
+     align-items: center;
+     height: 100vh;
+     margin: 0;
+     
+ }
+ img {
+    height: 60px;
+    width: 60px;
+  }
+  .nav-link1{
+    color: azure;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+  .nav-link2{
+    color: #a0a0a0;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+  .nav-link3{
+    color: #a0a0a0;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+  .nav-link4{
+    color: #a0a0a0;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+  .img{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 60px;
+    width: 680px;
+    height: 680px;
+}
+.if2{
+    position: absolute;
+    background-color: #949292;
+    width: 630px;
+    height: 630px;
+    border-radius: 7%;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+.if{
+    position: absolute;
+    background-color: #636060;
+    width: 600px;
+    height: 560px;
+    border-radius: 7%;
+    margin-left: 15px;
+    margin-top: 15px;
+   
+}
+.salainfo{
+    position: absolute;
+    color: #ffffff;
+    margin-left: 1280px;
+    margin-top: 20px;
+}
+.bot{
+      background-color: #424242;
+      border: none;
+      color: white;
+      padding: 10px 100px;
+      text-align: center;
+      text-decoration: none;
+      position: absolute;
+      display: inline-block;
+      font-size: 16px;
+      margin-left: 1320px;
+      margin-top: 760px;
+      cursor: pointer;
+      border-radius: 6%;
+}
+.car{
+    margin-left: 200px;
+    color: black;
+}
+.info1{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: aliceblue;
+}.info2{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: aliceblue;
+}
+.info3{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: aliceblue;
+}
+.info4{
+    margin-top: 30px;
+    margin-left: 10px;
+    color: aliceblue;
+}
